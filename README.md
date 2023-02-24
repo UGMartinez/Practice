@@ -1,2 +1,2 @@
-# Practice
-This is a repository of module 2
+How to create a repository and clone using the computer
+
